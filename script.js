@@ -38,8 +38,8 @@ console.log(person.age);
 
 const student=new Student("Alice",22);
 student.study();
-const Teacher= new Teacher("Bob",40);
-Teacher.teach();
+const teacher= new Teacher("Bob",40);
+teacher.teach();
 
 // Do not change the code below this line
 window.Person = Person;
